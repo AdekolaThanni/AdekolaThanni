@@ -1,5 +1,8 @@
 # Hi there, I'm Adekola Thanni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
+I'm a **Fullstack** Software Developer and a **UI/UX** Designer that specializes in using Javascript and Python technologies to create Full stack, **Accessible** and **Search Engine Optimized** web apps.
+
+
 <!--
 **AdekolaThanni/AdekolaThanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
