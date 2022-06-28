@@ -44,5 +44,5 @@ I'm a **Fullstack** Software Developer and a **UI/UX** Designer that specializes
 
 ---
 ### Contact Me
-<p>Send an Email to <a href="adekolathanni@gmail.com">adekolathanni@gmail.com</a></p>
-<p>Send a Direct Message on Twitter to <a href="https://twitter.com/AdekolaThanni6">AdekolaThanni6</a></p>
+<p>Send an Email to <b>adekolathanni@gmail.com</b></p>
+<p>Send a Direct Message on Twitter to <a href="https://twitter.com/AdekolaThanni6" target="_blank">AdekolaThanni6</a></p>
