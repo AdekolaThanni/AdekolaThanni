@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Adekola Thanni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
+
 I'm a **Fullstack** Software Developer and a **UI/UX** Designer that specializes in using Javascript and Python technologies to create Full stack, **Accessible** and **Search Engine Optimized** web apps.
+
+
 
 ### I work with
 <p>
@@ -29,7 +32,16 @@ I'm a **Fullstack** Software Developer and a **UI/UX** Designer that specializes
   <img src="https://img.shields.io/badge/Github-171515?logo=github&logoColor=white&style=flat"/>
 </p>
 
+----
 
+
+### My Github stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdekolaThanni&hide=contribs,prs&show_icons=true&theme=dark"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdekolaThanni&theme=dark"/>
+</p>
 
 <!--
 **AdekolaThanni/AdekolaThanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
