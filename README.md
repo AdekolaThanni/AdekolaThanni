@@ -8,7 +8,7 @@ I'm a **Fullstack** Software Developer and a **UI/UX** Designer that specializes
 <p>
   <img src="https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/CSS-2965f1?logo=css3&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/SCSS-cc6699?logo=sass&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-02acf0?logo=tailwind+css&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?logo=javascript&logoColor=white&style=flat"/>
